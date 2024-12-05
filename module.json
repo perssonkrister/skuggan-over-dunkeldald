@@ -2,9 +2,9 @@
    "id":"skuggan-over-dunkeldald",
    "title":"Skuggan över Dunkeldäld",
    "description":"Äventyrsmodul - Endast för personligt bruk",
-   "url":"https://github.com/Rangertheman/ondskan-vid-stigens-slut",
-   "manifest":"https://raw.githubusercontent.com/Rangertheman/skuggan-over-dunkeldald/master/module.json",
-   "download":"https://github.com/Rangertheman/skuggan-over-dunkeldald/archive/master.zip",
+   "url":"https://github.com/perssonkrister/ondskan-vid-stigens-slut",
+   "manifest":"https://raw.githubusercontent.com/perssonkrister/skuggan-over-dunkeldald/master/module.json",
+   "download":"https://github.com/perssonkrister/skuggan-over-dunkeldald/archive/master.zip",
    "authors":[
       {
          "name":"Krister Persson (Rangertheman)",
@@ -14,10 +14,10 @@
          }
       }
    ],
-   "version":"0.1.0",
+   "version":"0.1.1",
    "compatibility":{
       "minimum":"12",
-      "verified":"12"
+      "verified":"12.331"
    },
    "relationships":{
       "systems":[
